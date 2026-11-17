@@ -1,0 +1,8 @@
+build/
+bin/
+dist/
+data/
+results/
+*.o
+cmake-build-*/
+.idea/
